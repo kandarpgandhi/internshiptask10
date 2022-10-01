@@ -1,0 +1,6 @@
+D:\intern\ErrorEmp\bin\Debug\ErrorEmp.dll
+D:\intern\ErrorEmp\bin\Debug\ErrorEmp.pdb
+D:\intern\ErrorEmp\obj\Debug\ErrorEmp.csproj.AssemblyReference.cache
+D:\intern\ErrorEmp\obj\Debug\ErrorEmp.csproj.CoreCompileInputs.cache
+D:\intern\ErrorEmp\obj\Debug\ErrorEmp.dll
+D:\intern\ErrorEmp\obj\Debug\ErrorEmp.pdb
